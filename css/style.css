@@ -1,0 +1,21 @@
+.crystalscont{
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+}
+
+.crystal{
+border: 1px;
+border-color:black; 
+border-style: double;
+height: 200px;
+width: 200px;
+background-image: url("../images/69d1fdbece376058992202a49fc0fd3e.jpg");
+background-size: 85%;
+}
+*{
+font-family: 'ZCOOL KuaiLe', cursive;
+ font-size: 18px;
+ color: purple;
+
+}
